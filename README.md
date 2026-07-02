@@ -33,16 +33,47 @@ The dataset contains common data quality issues such as missing values, duplicat
 
 ---
 
-## Visualizations
+## Sample Visualizations
 
-The project includes visualizations such as:
+### Correlation Heatmap
 
-* Gender Distribution
-* Age Distribution
-* Rating by Product Category
-* Correlation Heatmap
-* Age vs Purchase Amount
-* Monthly Purchase Trend
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+### Age Distribution
+
+![Age Distribution](images/Age_distribution.png)
+
+---
+
+### Gender Distribution
+
+![Gender Distribution](images/Gender_distribution.png)
+
+---
+
+### Monthly Purchases
+
+![Monthly Purchases](images/Monthly_Purchases.png)
+
+---
+
+### Product Category Distribution
+
+![Product Category Distribution](images/ProductCategory_distribution.png)
+
+---
+
+### Purchase Amount Distribution
+
+![Purchase Amount Distribution](images/PurchaseAmount_barplot.png)
+
+---
+
+### Age vs Purchase Amount
+
+![Age vs Purchase Amount](images/scatter_Age_Purchase.png)
 
 ---
 
