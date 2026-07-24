@@ -1,5 +1,5 @@
 # Customer Data Cleaning & Exploratory Data Analysis
-
+![Customer Data Cleaning](<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/bfb651f0-7b05-41aa-a446-dbb2efa197ad" />)
 ## Overview
 
 This project demonstrates a complete data cleaning and exploratory data analysis (EDA) workflow using Python.
