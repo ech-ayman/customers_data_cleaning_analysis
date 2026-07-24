@@ -93,4 +93,4 @@ customer-data-cleaning-analysis/
 
 ## Author
 
-Ayman ECH-TAIBABI
+Ayman ECH-TAIBABI - Data Engineering student at EST Agadir
